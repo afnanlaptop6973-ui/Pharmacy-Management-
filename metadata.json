@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Pharmacy Manager",
+  "description": "Professional Marg ERP 9-inspired pharmacy management system with inventory, medicine \u0026 general item tracking, expiry alerts, billing POS, stock history, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
